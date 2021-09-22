@@ -4,4 +4,6 @@
   margin: 0 auto;
   position: relative;
   bottom: -50px;
+  padding: 0;
+  list-style: none;
 }
