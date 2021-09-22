@@ -3,36 +3,9 @@
   height: 38px;
   text-decoration: none;
   transition: opacity 0.4s linear;
+  text-align: center;
 }
 
 .resources__logo:hover {
   opacity: 0.5;
-}
-
-.resources__logo:first-of-type {
-  background-image: url(../../../images/logo/resources-arzamas.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.resources__logo:nth-of-type(2) {
-  background-image: url(../../../images/logo/resources-n1.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.resources__logo:nth-of-type(3) {
-  background-image: url(../../../images/logo/resources-strelka.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.resources__logo:last-of-type {
-  background-image: url(../../../images/logo/resources-polka.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
